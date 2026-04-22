@@ -1,0 +1,9 @@
+h1 { color: rgb(197, 168, 125);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+h2 { 
+    color: rgb(233, 214, 193);
+}
+ul { font-family: 'Courier New', Courier, monospace;}
+ol { font-family: 'Courier New', Courier, monospace;}
+h3 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(167, 150, 131);}
