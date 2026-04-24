@@ -1,0 +1,21 @@
+body { text-align: center;
+   background-color: #ffffff;
+}
+h1 { color: #4180ab;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border: solid;
+   border-color: #4180ab;
+}
+h2 { color: #8ab3cf;
+   border: dashed;
+   border-color: #8ab3cf;
+}
+ul { font-family: 'Courier New', Courier, monospace;
+   color: #191013;
+}
+ol { font-family: 'Courier New', Courier, monospace;
+   color: #191013;
+}
+h3 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #191013;
+}
